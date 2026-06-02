@@ -1,6 +1,6 @@
 [package]
 name = "pob-parser"
-version = "1.0.0"
+version = "1.0.2"
 edition = "2021"
 description = "Path of Building (PoB) import code and pobb.in URL parser"
 license = "MIT"

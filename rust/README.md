@@ -23,12 +23,12 @@ npm install pob-parser
 Add to your Cargo.toml:
 ```toml
 [dependencies]
-pob-parser = "1.0.0"
+pob-parser = "1.0.2"
 ```
 
 To enable HTTP fetching (async/blocking):
 ```toml
-pob-parser = { version = "1.0.0", features = ["fetch", "blocking"] }
+pob-parser = { version = "1.0.2", features = ["fetch", "blocking"] }
 ```
 
 ## Quick Start Examples
