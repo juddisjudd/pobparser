@@ -10,7 +10,7 @@ export interface FetchOptions {
   timeoutMs?: number;
 }
 
-const DEFAULT_USER_AGENT = 'pob-parser/1.0.0 (https://github.com/juddisjudd/pobpaser; contact: juddisjudd@github.com)';
+const DEFAULT_USER_AGENT = 'pob-parser/1.0.1 (https://github.com/juddisjudd/pobparser; contact: juddisjudd@github.com)';
 
 /**
  * Parses pobb.in URLs to extract the paste ID and raw URL.

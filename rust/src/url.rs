@@ -69,7 +69,7 @@ pub fn parse_url(url: &str) -> Option<ParsedUrl> {
 }
 
 #[cfg(any(feature = "fetch", feature = "blocking"))]
-const DEFAULT_USER_AGENT: &str = "pob-parser-rust/1.0.0 (https://github.com/pob-parser; contact: pob-parser-rust@example.com)";
+const DEFAULT_USER_AGENT: &str = "pob-parser-rust/1.0.1 (https://github.com/juddisjudd/pobparser; contact: juddisjudd@github.com)";
 
 #[cfg(feature = "fetch")]
 pub async fn fetch_raw_code(url_or_id: &str, user_agent: Option<&str>) -> Result<String> {

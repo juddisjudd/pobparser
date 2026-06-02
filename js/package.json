@@ -4,12 +4,12 @@
   "description": "Path of Building (PoB) import code and pobb.in URL parser",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/juddisjudd/pobpaser.git"
+    "url": "git+https://github.com/juddisjudd/pobparser.git"
   },
   "bugs": {
-    "url": "https://github.com/juddisjudd/pobpaser/issues"
+    "url": "https://github.com/juddisjudd/pobparser/issues"
   },
-  "homepage": "https://juddisjudd.github.io/pobpaser/",
+  "homepage": "https://juddisjudd.github.io/pobparser/",
   "files": [
     "dist",
     "src"
